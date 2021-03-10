@@ -1,0 +1,26 @@
+#ip{
+    text-align: right;
+    color: darkblue;
+    width: 100%;
+    height: 100%;
+    font-size: 50px;
+
+}
+table{
+    border-color: black;
+
+    width: 500px;
+    height: 500px;
+
+}
+td{
+    border:none;
+}
+input{
+    background-color: white;
+    border-color: aliceblue;
+    width: 100%;
+    height: 100%;
+    font-size: 30px;
+    color: darkblue;
+}
